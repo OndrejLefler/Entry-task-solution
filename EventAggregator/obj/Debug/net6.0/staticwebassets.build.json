@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3Q92oJhQ7EikRaesKAiIPV7Kbx+AERWG6SSBHA4N7hQ=",
+  "Source": "EventAggregator",
+  "BasePath": "_content/EventAggregator",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
