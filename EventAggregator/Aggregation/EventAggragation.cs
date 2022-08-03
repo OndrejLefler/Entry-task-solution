@@ -13,16 +13,13 @@ public static class EventAggregation
     {
         Events = new List<Event>
         {
-            //TEST (can delete)
-            new Event{Name = "test",UnixTime =1659169308},
-            new Event{Name = "test",UnixTime =1659169310},
+
         };
     }
     public static void AddEvent(string name)
     {
         Events?.Add(new Event{Name = name,UnixTime = unixTimestamp()});
-        //TEST (can delete)
-        Console.WriteLine(Events[3].Name);
+
     }
     
     public static List<string> AggregateEvents(string name, int UNIXfrom,int UNIXto,int interval)

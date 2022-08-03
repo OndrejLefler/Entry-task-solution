@@ -52,4 +52,3 @@ D:\Users\K\Development\.net\EventAggregator\obj\Debug\net6.0\refint\EventAggrega
 D:\Users\K\Development\.net\EventAggregator\obj\Debug\net6.0\EventAggregator.pdb
 D:\Users\K\Development\.net\EventAggregator\obj\Debug\net6.0\EventAggregator.genruntimeconfig.cache
 D:\Users\K\Development\.net\EventAggregator\obj\Debug\net6.0\ref\EventAggregator.dll
-D:\Users\K\Development\.net\EventAggregator\bin\Debug\net6.0\test.json
